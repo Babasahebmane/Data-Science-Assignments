@@ -1,2 +1,2 @@
 # Data-Science-Assignments
-I have did all Data science related assignments. 
+I have did all the Data science related assignments. 
